@@ -1,0 +1,20 @@
+[
+  {
+    "id": "doc1",
+    "title": "Introduction to Apache Solr",
+    "author": "John Doe",
+    "content": "Apache Solr is an open-source enterprise-search platform, written in Java.",
+    "published_date": "2024-03-05T00:00:00Z",
+    "category": "Technology",
+    "tags": ["search", "java", "apache"]
+  },
+  {
+    "id": "doc2",
+    "title": "Advanced Solr Features",
+    "author": "Jane Smith",
+    "content": "Learn about faceting, clustering, and distributed search in Apache Solr.",
+    "published_date": "2024-03-06T00:00:00Z",
+    "category": "Technology",
+    "tags": ["advanced", "solr", "search"]
+  }
+] 

@@ -1,0 +1,22 @@
+[
+    {
+      "id": "user53653",
+      "email": "FuJxV@example.com",
+      "roles": ["viewer"],
+      "purchase_history_dates": ["2023-10-31", "2023-04-04"],
+      "purchase_item_ids": ["item_296", "item_205"],
+      "purchase_prices": [243.78, 42.4]
+    },
+    {
+      "id": "user53654",
+      "email": "6gWn9@example.com",
+      "roles": ["editor", "admin", "viewer"],
+      "preferences_language": "de",
+      "notifications_email": true,
+      "notifications_sms": false,
+      "purchase_history_dates": ["2023-04-21", "2024-04-26"],
+      "purchase_item_ids": ["item_571", "item_737"],
+      "purchase_prices": [282.16, 308.95]
+    }
+  ]
+  
