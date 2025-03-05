@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Apache Solr Guidee",
+    "author": "John Doe",
+    "category": "Search Engines",
+    "reviews": [
+      {
+        "user": "Alice",
+        "rating": 5,
+        "comment": "Great book!"
+      },
+      {
+        "user": "Bob",
+        "rating": 4,
+        "comment": "Very informative."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Mastering Solr",
+    "author": "Jane Smith",
+    "category": "Big Data",
+    "feedback": [
+      {
+        "user": "Charlie",
+        "rating": 4,
+        "comment": "A detailed guide."
+      }
+    ]
+
+  }
+]
